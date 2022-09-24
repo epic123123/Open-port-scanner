@@ -1,2 +1,2 @@
 # Open-port-scanner
-An open port scanner, written in Rust.
+A lightweight, no additional dependencies utilizing open port scanner, written in entirely Rust.
